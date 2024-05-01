@@ -1,5 +1,5 @@
 
-Apple Fruit Categorization (AFC) dataset
+Apple Fruit Quality Categorization (AFQC) dataset
 
 License Developed by: Mustafa Mhamed, Zhao Zhang
 
