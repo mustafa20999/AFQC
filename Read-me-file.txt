@@ -1,2 +1,2 @@
-Apple Fruit Categorization (AFC), has 2, 320 apples in total and consists of two classes: 1,160 fresh and 1,160 rotten apples were collected from the orchard.
+Apple Fruit Quality Categorization (AFQC), has 2, 320 apples in total and consists of two classes: 1,160 fresh and 1,160 rotten apples were collected from the orchard.
 China was the research region, Beijing City, Huairou District, place name 'Beijing Shengshiguowang', mean temperature '76°C - 19°C', mean monthly rainfall: 51.2 mm. 
